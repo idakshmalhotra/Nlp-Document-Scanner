@@ -2,6 +2,7 @@
 
 
 An application that processes multiple text documents at once, performing various NLP analyses including summarization, key phrase extraction, named entity recognition, and topic modeling.
+![image](https://github.com/user-attachments/assets/37ae3874-765c-4eb1-b80c-1b7a7798e0ff)
 
 ## Features
 
